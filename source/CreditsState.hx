@@ -1,4 +1,4 @@
-package;
+  package;
 
 #if desktop
 import Discord.DiscordClient;
@@ -52,9 +52,11 @@ class CreditsState extends MusicBeatState
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
 			[''],
-			['Engine Contributors'],
-			['shubs',				'shubs',			'New Input System Programmer',						'https://twitter.com/yoshubs',			'0xFF4494E6'],
-			['PolybiusProxy',		'polybiusproxy',	'.MP4 Video Loader Extension',						'https://twitter.com/polybiusproxy',	'0xFFE01F32'],
+			['Mod Contributors '],
+			['Black Tord',				'shubs',			'System Programmer',						'https://twitter.com/BlackTord?t=QCMY4gdPrnwx_xhqzkylPw&s=09',			'0xFF4494E6'],
+			['Looper',		'polybiusproxy',	'Tord Loves her',						'https://twitter.com/looper_aminore2?t=HNKShr6IDS3kbi6gC5GjTQ&s=09',	'0xFFE01F32'],
+			[''],
+			['Engine Contribu'],
 			['gedehari',			'gedehari',			'Chart Editor\'s Sound Waveform base',				'https://twitter.com/gedehari',			'0xFFFF9300'],
 			['Keoiki',				'keoiki',			'Note Splash Animations',							'https://twitter.com/Keoiki_',			'0xFFFFFFFF'],
 			['SandPlanet',			'sandplanet',		'Mascot\'s Owner\nMain Supporter of the Engine',		'https://twitter.com/SandPlanetNG',	'0xFFD10616'],
